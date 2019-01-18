@@ -1,7 +1,5 @@
 # Metaprogramming-for-Mathematics
 Generalized Template Metaprogramming for faster common mathematics operations
-
-***Coming Soon: Matrix Operations!***
 - - - -
 
 Metaprogramming and C++ templates are most often referred to as generic containers, STL, macros, etc. 
